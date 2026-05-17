@@ -15,5 +15,7 @@ Use loops to implement `repeatString` rather than using the builtin `String.prot
 ## Hints
 
 - What inputs does the function need to achieve its goal?
+<!-- string and number -->
 
 - How can you iteratively build up the final string, using one of the inputs to control the repetition?
+<!-- using number being the length of the loop itertion -->
